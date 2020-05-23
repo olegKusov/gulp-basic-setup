@@ -1,4 +1,4 @@
-# Basic Gulp setup for landing pages.
+# Basic Gulp 4 setup for landing pages.
 
 * All components can be in components folder. They combined in main index.html file.
 * Styles import with PostCSS importing.
